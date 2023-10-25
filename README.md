@@ -1,0 +1,2 @@
+# Gamestore
+Springboot + maven + mysql
